@@ -1,0 +1,21 @@
+# 发射速度
+speed: 2.5
+
+# 方块持续tick数
+tick-block-keep: 20
+
+# 方块切换间隔：tick数
+tick-block-interval: 1
+
+# 特效持续时间：tick数
+tick-effect-duration: 100
+
+# 切换的材料，使用材料 id 的大写形式
+materials:
+  - 'RED_WOOL'
+  - 'ORANGE_WOOL'
+  - 'YELLOW_WOOL'
+  - 'LIME_WOOL'
+  - 'LIGHT_BLUE_WOOL'
+  - 'BLUE_WOOL'
+  - 'PURPLE_WOOL'

@@ -1,0 +1,12 @@
+name: RainbowEscape
+version: '${project.version}'
+main: cn.sandtripper.minecraft.rainbowescape.RainbowEscape
+api-version: '1.13'
+authors: [SandTripper]
+commands:
+  RainbowEscape:
+    description: '/escape <reload>'
+    usage: '/escape <reload>'
+    aliases: [ escape ]
+    permission: rainbowescape.command
+    permission-message: You don't have permission to perform this command.
